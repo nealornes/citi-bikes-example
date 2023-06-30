@@ -1,0 +1,18 @@
+<html > <head > <style > h1 {
+  text-align: center;
+}
+
+</style > </head > <body > <h1 > Citi Bikes in NYC</h1 > </body > </html > div {
+  background: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+}
+
+div {
+  background-color: blue;
+  opacity: 0.3;
+}
+div {
+  background: rgba(179, 30, 169, 0.3); /* Green background with 30% opacity */
+}
+.h1 {
+  color: blue;
+}
